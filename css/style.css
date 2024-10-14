@@ -134,17 +134,18 @@
 .header-2-3 .btn:active {
   outline: none !important;
 }
-.btn-kuning{
+.btn-daftar{
   font: 500 14px / normal Poppins, sans-serif;
-  background-color: #fffb00;
+  color: #FFFFFF;
+  background-color: #08C2FF;
   border-radius: 12px;
   padding: 12px 18px;
   transition: 0.3s;
 }
-.btn-kuning:hover {
+.btn-daftar:hover {
   font: 500 14px / normal Poppins, sans-serif;
   background-color: #d5d5d5;
-  color: #FFFFFF;
+  color: #3d3d3d;
   border-radius: 12px;
   padding: 12px 18px;
   transition: 0.3s;
