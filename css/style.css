@@ -26,6 +26,8 @@
  
 }
 
+
+
 .navbar-nav{
 
   background-color: #ffffff;
@@ -50,9 +52,6 @@
  
 }
 
-.container-header{
-  margin: 30px 80px 40px 80px;
-}
 
 
 
@@ -304,6 +303,9 @@ hr.hr-footer-2-4 {
       max-width: auto;
       height: auto;
     }
+    .img-profile{
+      width: 400px;
+    }
     .header-2-3 .modal-item .modal-dialog {
       max-width: 95%;
       border-radius: 12px;
@@ -347,6 +349,9 @@ hr.hr-footer-2-4 {
     max-width: auto;
     height: auto;
   }
+
+
+ 
   .header-2-3 .modal-item .modal-dialog {
     max-width: 95%;
     border-radius: 12px;
@@ -383,6 +388,9 @@ hr.hr-footer-2-4 {
 }
 
   @media (min-width: 768px) {
+    .img-profile{
+      width: 700px;
+    }
     .header-2-3 .navbar {
       padding: 3rem 4rem;
     }
@@ -404,50 +412,13 @@ hr.hr-footer-2-4 {
     }
   }
 
-  @media (min-width: 992px) {
-    .header-2-3 .navbar-expand-lg .navbar-nav .nav-link {
-      padding-right: 1.25rem;
-      padding-left: 1.25rem;
-    }
-
-    .header-2-3 .navbar {
-      padding: 3rem 6rem;
-    }
-
-    .header-2-3 .hero {
-      padding: 3rem 6rem 5rem;
-    }
-
-    .header-2-3 .left-column {
-      width: 50%;
-      margin-bottom: 0;
-    }
-
-    .header-2-3 .title-text-big {
-      font-size: 3.75rem;
-      line-height: 1.2;
-    }
-
-    .header-2-3 .right-column {
-      width: 50%;
-    }
-    .footer-responsive-space-footer-2-4 {
-      margin-bottom: 1.25rem;
-      margin-top: 1.25rem;
-    }
-    .list-footer-footer-2-4 {
-        padding: 5rem 6rem 6rem 6rem;
-      }
-      .info-footer-footer-2-4 {
-        padding-left: 6rem;
-        padding-right: 6rem;
-        padding-bottom: 3rem;
-      }
-  }
-
+  
   @media (min-width: 1024px) {
     .img-logo{
       width: 200px;
+    }
+    .img-profile{
+      width: 800px;
     }
     .container {
       max-width: 1024px;
@@ -460,24 +431,10 @@ hr.hr-footer-2-4 {
         padding-right: 6rem;
         padding-bottom: 3rem;
       }
-  }
-  
-  @media (min-width: 1280px) {
 
-  
-    .container {
-      max-width: 1280px;
-     
     }
-    .list-footer-footer-2-4 {
-        padding: 5rem 6rem 6rem 6rem;
-      }
-      .info-footer-footer-2-4 {
-        padding-left: 6rem;
-        padding-right: 6rem;
-        padding-bottom: 3rem;
-      }
-  }
+  
+
   
   @media (min-width: 1536px) {
     .container {
