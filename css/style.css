@@ -360,6 +360,10 @@ hr.hr-footer-2-4 {
     width: 140px;
   }
 
+  .img-profile{
+    width: 200;
+  }
+
   .responsive{
     max-width: 96%;
   }
@@ -389,7 +393,7 @@ hr.hr-footer-2-4 {
 
   @media (min-width: 768px) {
     .img-profile{
-      width: 700px;
+      width: 500px;
     }
     .header-2-3 .navbar {
       padding: 3rem 4rem;
@@ -418,7 +422,7 @@ hr.hr-footer-2-4 {
       width: 200px;
     }
     .img-profile{
-      width: 800px;
+      width: 600px;
     }
     .container {
       max-width: 1024px;
