@@ -53,6 +53,15 @@
 }
 
 
+.icons-1{
+    width: 100px;
+    height: 100px;
+}
+
+.icon-sm{
+    width: 70px;
+    height: 70px;
+}
 
 
 /* body */
@@ -135,8 +144,8 @@
 }
 .btn-daftar{
   font: 500 14px / normal Poppins, sans-serif;
-  color: #FFFFFF;
-  background-color: #08C2FF;
+  color: #101010;
+  background-color: #fef723a4;
   border-radius: 12px;
   padding: 12px 18px;
   transition: 0.3s;
@@ -144,7 +153,7 @@
 .btn-daftar:hover {
   font: 500 14px / normal Poppins, sans-serif;
   background-color: #d5d5d5;
-  color: #3d3d3d;
+  color: #f5f5f5;
   border-radius: 12px;
   padding: 12px 18px;
   transition: 0.3s;
@@ -232,10 +241,10 @@
 .footer-text-title-footer-2-4 {
   font-size: 1.5rem;
   font-weight: 600;
-  color: #FFFFFF;
+  color: #000000;
 }
 .list-menu-footer-2-4 {
-  color: #999999;
+  color: #242424;
   text-decoration: none !important;
   cursor: pointer;
 }
@@ -248,19 +257,19 @@ hr.hr-footer-2-4 {
   border-top: 1px solid #121111;
 }
 .border-color-footer-2-4 {
-  color: #999999;
+  color: #1a1a1a;
 }
 .footer-link-footer-2-4 {
   margin-right: 1.25rem;
-  color: #999999;
+  color: #000000;
 }
 .footer-link-footer-2-4:hover {
-  color: #FFFFFF;
+  color: #ffffff;
   cursor: pointer;
 }
 .social-media-c-footer-2-4:hover circle,
 .social-media-p-footer-2-4:hover path {
-  fill: #FFFFFF;
+  fill: #ffffff;
   cursor: pointer;
 }
 .footer-info-space-footer-2-4 {
