@@ -361,7 +361,7 @@ hr.hr-footer-2-4 {
   }
 
   .img-profile{
-    width: 200;
+    width: 120;
   }
 
   .responsive{
@@ -393,7 +393,7 @@ hr.hr-footer-2-4 {
 
   @media (min-width: 768px) {
     .img-profile{
-      width: 500px;
+      width: 480px;
     }
     .header-2-3 .navbar {
       padding: 3rem 4rem;
